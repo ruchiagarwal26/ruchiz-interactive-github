@@ -1,0 +1,20 @@
+{
+  "name": "static-site",
+  "version": "1.0.0",
+  "description": "generates Readme.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^5.0.7",
+    "api-utils": "^0.0.2",
+    "getuser": "^1.0.0",
+    "inquirer": "^8.2.4",
+    "npm-utils": "^2.0.3",
+    "resource-api-utils": "^1.0.1",
+    "util": "^0.12.5"
+  }
+}
