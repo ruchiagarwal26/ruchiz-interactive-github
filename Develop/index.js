@@ -3,10 +3,7 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
 const util = require('util');
-const api = require('api');
 const path = require('path');
-//const generateReadme = require('./utils/generateReadme');
-//const writeFileAsync = util.promisify(fs.writeFile);
 console.log('Hi, welcome to Readme genrating website');
 console.log("please answer the questions below to add to your project's Readme");
 const generateMarkdown = require('./utils/generateMarkdown.js');
@@ -83,17 +80,9 @@ console.log("writeResponse", writeResponse);
 async function init() {
 const userResponse = await inquirer.prompt(questions);
 console.log("userResponse: ", userResponse);
-//return fs.writeFileSync(path.join (process.cwd(), "README.md"), generateMarkdown(userResponse));
-
-//const userInfo = await api.getUser(userResponse);
-//console.log ("userInfo ", userInfo)
-
 const markdown = generateMarkdown(userResponse);
 console.log("markdown: ", markdown);
-
 await writeResponse ('README.md', markdown)
-
-
 }
 
 // Function call to initialize app
