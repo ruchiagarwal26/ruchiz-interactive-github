@@ -1,5 +1,25 @@
 # 09 Node.js Challenge: Professional README Generator
 
+
+## this is a professional read me generator. 
+
+* the packages that are installed to develop this are inquirer and fs
+
+* It has a interactive console, where in user can add information to the asked questions and that information is wrttien into the readme file
+
+* the page is presented with welcome message andn instructions to follow
+
+* questions are presented with either requirement to provide input or to select from multiple choices
+
+* the questions and information is saved and with file system is written to Readme file
+
+* Also the licence badges are added
+
+* the page has table of content, on clicking the desired section the section is displayed.
+
+Thank you
+
+
 ## Your Task
 
 When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
