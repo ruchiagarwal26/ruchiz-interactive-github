@@ -1,29 +1,29 @@
-# gg
-[![undefined license](https://img.shields.io/badge/License-undefined-blue.svg)]()
+# g
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](undefined)
 
 ## Table of Contents:
 * [Description](#description)
 * [License](#license)
-* [Usage](#Usage)  
-* [Installation](#Installation)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
-* [Questions](#Questions)
+* [Usage](#usage)  
+* [Installation](#installation)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
 
 ## Description
-gg 
+g 
 ## Usage
-gg
+g
 ## License
 MIT license is used in this project
 ## Installation
-gg
+g
 ## Contributing
-gg
+g
 ## Tests
-gg
+g
 ## Questions
-gg
+g
 
 My GitHub: https://github.com/undefined  
-For additional questions, please reach out to me at my email: gg 
+For additional questions, please reach out to me at my email: g 
