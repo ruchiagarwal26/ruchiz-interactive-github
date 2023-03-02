@@ -1,5 +1,5 @@
-# w
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](undefined)
+# Readme generator
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](undefined)
 
 ## Table of Contents:
 * [Description](#description)
@@ -11,19 +11,19 @@
 * [Questions](#questions)
 
 ## Description
-w 
+This projecty is to generate readme with the use of inquirer library from npm 
 ## Usage
-f
+node js
 ## License
-GPLv3 license is used in this project
+MIT license is used in this project
 ## Installation
-f
+install inquirer and fs libraries from npm
 ## Contributing
-f
+Yes
 ## Tests
-f
+by running node index.js command
 ## Questions
-f
+none
 
 My GitHub: https://github.com/undefined  
-For additional questions, please reach out to me at my email: f 
+For additional questions, please reach out to me at my email: ruchi_af@gmail.com 
