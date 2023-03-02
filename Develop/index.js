@@ -23,7 +23,7 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
     {
         type: 'checkbox',
         message: 'Please select the license requirements for this project',
-        choices: ["MIT", "GNU General Public License 2.0", "Apache License 2.0", "GNU General Public License 3.0"],
+        choices: ["MIT", "GPL_v2", "Apache_2.0", "GPLv3"],
         name: 'License',
       },
       {
